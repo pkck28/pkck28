@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there, I'm Pavan!👋
+
+## 🚀 About Me
+I am Pavankumar Koratikere, a PhD candidate at the School of Aeronautics and Astronautics, Purdue University.
+
+My master's thesis was based on developing efficient method for Neural-Network-based Efficient global optimization.
+
+I look forward to collaborae on interesting projects
 
 <!--
 **pkck28/pkck28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
